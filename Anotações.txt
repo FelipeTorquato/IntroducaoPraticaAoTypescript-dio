@@ -1,0 +1,29 @@
+1.
+	-> Objetivos
+		1. Apresentar e explicar as vantagens de desenvolver com Typescript
+		2. Explicar na prática como configurar e usar a ferramenta
+		3. Solidificar os conhecimentos com uma bateria de exercícios de TS
+	-> O que é Typescript?
+		Superset do Javascript
+			Linguagem construída por cima do JS.
+			Adiciona features à linguagem original.
+			Compila para JS.
+	-> Por que usar TS?
+		Adiciona definição estática de tipos.
+			Funcionalidades do código mais explícitas.
+			Maior segurança durante o desenvolvimento.
+			Detecta erros durante a compilação que só
+			seriam percebidos em execução.
+		Compila um Javascript mais resiliente.
+		Ajuda a desenvolver boas práticas de programação.
+	-> Tipos
+		• Boolean
+		• Strings
+		• Listas
+		• Enums
+		• Any
+		• Void
+		• Função
+		• Unknown
+		• Never
+		• Etc...
